@@ -10,3 +10,5 @@ jumlah = int(input("Masukkan jumlah n: ")) - adalah perintah untuk menginput nil
 import random - adalah perintah untuk mengadopsi built-in random yang telah tersedia di python
 for i in range(jumlah): - adalah perintah untuk i sebagai integer dalam baris jumlah
 print("data ke", i+1,"=",(random.uniform(0.1,0.5))) - adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random uniform mulai dari nilai 0.1 sampai 0.5
+![ss1,png](https://user-images.githubusercontent.com/92639909/142034085-0bca6bda-fab0-457d-932b-8f9e965223d5.jpg)
+
